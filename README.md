@@ -26,7 +26,11 @@ Follow these steps to set up and run the API:
     `npm install`
 
 4. Setup .env
+   
    Variable Name      |    Example Value
+   
 --------------------- |----------------------
-API_URL               |  /api/v1
+
+API_URL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  /api/v1
+
 CONNECTION_STRING     |  mongodb+srv://harshchaudharydb:iIfTQg8574dw5hiY@cluster0.xsnsbjr.mongodb.net/?retryWrites=true&w=majority
